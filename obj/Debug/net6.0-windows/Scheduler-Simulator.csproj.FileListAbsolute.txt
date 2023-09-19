@@ -1,0 +1,40 @@
+C:\Users\NUBIA PARRA\OneDrive\Documentos\UNIVERSIDAD\Sexto Semestre\Sistemas Operativos\Simulacion-Scheduler\Simulador-Scheduler\bin\Debug\net6.0-windows\Scheduler-Simulator.exe
+C:\Users\NUBIA PARRA\OneDrive\Documentos\UNIVERSIDAD\Sexto Semestre\Sistemas Operativos\Simulacion-Scheduler\Simulador-Scheduler\bin\Debug\net6.0-windows\Scheduler-Simulator.deps.json
+C:\Users\NUBIA PARRA\OneDrive\Documentos\UNIVERSIDAD\Sexto Semestre\Sistemas Operativos\Simulacion-Scheduler\Simulador-Scheduler\bin\Debug\net6.0-windows\Scheduler-Simulator.runtimeconfig.json
+C:\Users\NUBIA PARRA\OneDrive\Documentos\UNIVERSIDAD\Sexto Semestre\Sistemas Operativos\Simulacion-Scheduler\Simulador-Scheduler\bin\Debug\net6.0-windows\Scheduler-Simulator.dll
+C:\Users\NUBIA PARRA\OneDrive\Documentos\UNIVERSIDAD\Sexto Semestre\Sistemas Operativos\Simulacion-Scheduler\Simulador-Scheduler\bin\Debug\net6.0-windows\Scheduler-Simulator.pdb
+C:\Users\NUBIA PARRA\OneDrive\Documentos\UNIVERSIDAD\Sexto Semestre\Sistemas Operativos\Simulacion-Scheduler\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler-Simulator.csproj.AssemblyReference.cache
+C:\Users\NUBIA PARRA\OneDrive\Documentos\UNIVERSIDAD\Sexto Semestre\Sistemas Operativos\Simulacion-Scheduler\Simulador-Scheduler\obj\Debug\net6.0-windows\Simulador_Scheduler.GuiScheduler.resources
+C:\Users\NUBIA PARRA\OneDrive\Documentos\UNIVERSIDAD\Sexto Semestre\Sistemas Operativos\Simulacion-Scheduler\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler_Simulator.Presentacion.ListProcess.resources
+C:\Users\NUBIA PARRA\OneDrive\Documentos\UNIVERSIDAD\Sexto Semestre\Sistemas Operativos\Simulacion-Scheduler\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler_Simulator.Presentacion.ListProcessor.resources
+C:\Users\NUBIA PARRA\OneDrive\Documentos\UNIVERSIDAD\Sexto Semestre\Sistemas Operativos\Simulacion-Scheduler\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler_Simulator.Properties.Resources.resources
+C:\Users\NUBIA PARRA\OneDrive\Documentos\UNIVERSIDAD\Sexto Semestre\Sistemas Operativos\Simulacion-Scheduler\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler-Simulator.csproj.GenerateResource.cache
+C:\Users\NUBIA PARRA\OneDrive\Documentos\UNIVERSIDAD\Sexto Semestre\Sistemas Operativos\Simulacion-Scheduler\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler-Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NUBIA PARRA\OneDrive\Documentos\UNIVERSIDAD\Sexto Semestre\Sistemas Operativos\Simulacion-Scheduler\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler-Simulator.AssemblyInfoInputs.cache
+C:\Users\NUBIA PARRA\OneDrive\Documentos\UNIVERSIDAD\Sexto Semestre\Sistemas Operativos\Simulacion-Scheduler\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler-Simulator.AssemblyInfo.cs
+C:\Users\NUBIA PARRA\OneDrive\Documentos\UNIVERSIDAD\Sexto Semestre\Sistemas Operativos\Simulacion-Scheduler\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler-Simulator.csproj.CoreCompileInputs.cache
+C:\Users\NUBIA PARRA\OneDrive\Documentos\UNIVERSIDAD\Sexto Semestre\Sistemas Operativos\Simulacion-Scheduler\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler-Simulator.dll
+C:\Users\NUBIA PARRA\OneDrive\Documentos\UNIVERSIDAD\Sexto Semestre\Sistemas Operativos\Simulacion-Scheduler\Simulador-Scheduler\obj\Debug\net6.0-windows\refint\Scheduler-Simulator.dll
+C:\Users\NUBIA PARRA\OneDrive\Documentos\UNIVERSIDAD\Sexto Semestre\Sistemas Operativos\Simulacion-Scheduler\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler-Simulator.pdb
+C:\Users\NUBIA PARRA\OneDrive\Documentos\UNIVERSIDAD\Sexto Semestre\Sistemas Operativos\Simulacion-Scheduler\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler-Simulator.genruntimeconfig.cache
+C:\Users\NUBIA PARRA\OneDrive\Documentos\UNIVERSIDAD\Sexto Semestre\Sistemas Operativos\Simulacion-Scheduler\Simulador-Scheduler\obj\Debug\net6.0-windows\ref\Scheduler-Simulator.dll
+C:\Users\juann\Downloads\Simulacion-Scheduler-main (3)\Simulacion-Scheduler-main\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler-Simulator.csproj.AssemblyReference.cache
+C:\Users\juann\Downloads\Simulacion-Scheduler-main (3)\Simulacion-Scheduler-main\Simulador-Scheduler\obj\Debug\net6.0-windows\Simulador_Scheduler.GuiScheduler.resources
+C:\Users\juann\Downloads\Simulacion-Scheduler-main (3)\Simulacion-Scheduler-main\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler_Simulator.Presentacion.ListProcess.resources
+C:\Users\juann\Downloads\Simulacion-Scheduler-main (3)\Simulacion-Scheduler-main\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler_Simulator.Presentacion.ListProcessor.resources
+C:\Users\juann\Downloads\Simulacion-Scheduler-main (3)\Simulacion-Scheduler-main\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler_Simulator.Properties.Resources.resources
+C:\Users\juann\Downloads\Simulacion-Scheduler-main (3)\Simulacion-Scheduler-main\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler-Simulator.csproj.GenerateResource.cache
+C:\Users\juann\Downloads\Simulacion-Scheduler-main (3)\Simulacion-Scheduler-main\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler-Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juann\Downloads\Simulacion-Scheduler-main (3)\Simulacion-Scheduler-main\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler-Simulator.AssemblyInfoInputs.cache
+C:\Users\juann\Downloads\Simulacion-Scheduler-main (3)\Simulacion-Scheduler-main\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler-Simulator.AssemblyInfo.cs
+C:\Users\juann\Downloads\Simulacion-Scheduler-main (3)\Simulacion-Scheduler-main\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler-Simulator.csproj.CoreCompileInputs.cache
+C:\Users\juann\Downloads\Simulacion-Scheduler-main (3)\Simulacion-Scheduler-main\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler-Simulator.dll
+C:\Users\juann\Downloads\Simulacion-Scheduler-main (3)\Simulacion-Scheduler-main\Simulador-Scheduler\obj\Debug\net6.0-windows\refint\Scheduler-Simulator.dll
+C:\Users\juann\Downloads\Simulacion-Scheduler-main (3)\Simulacion-Scheduler-main\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler-Simulator.pdb
+C:\Users\juann\Downloads\Simulacion-Scheduler-main (3)\Simulacion-Scheduler-main\Simulador-Scheduler\bin\Debug\net6.0-windows\Scheduler-Simulator.exe
+C:\Users\juann\Downloads\Simulacion-Scheduler-main (3)\Simulacion-Scheduler-main\Simulador-Scheduler\bin\Debug\net6.0-windows\Scheduler-Simulator.deps.json
+C:\Users\juann\Downloads\Simulacion-Scheduler-main (3)\Simulacion-Scheduler-main\Simulador-Scheduler\bin\Debug\net6.0-windows\Scheduler-Simulator.runtimeconfig.json
+C:\Users\juann\Downloads\Simulacion-Scheduler-main (3)\Simulacion-Scheduler-main\Simulador-Scheduler\bin\Debug\net6.0-windows\Scheduler-Simulator.dll
+C:\Users\juann\Downloads\Simulacion-Scheduler-main (3)\Simulacion-Scheduler-main\Simulador-Scheduler\bin\Debug\net6.0-windows\Scheduler-Simulator.pdb
+C:\Users\juann\Downloads\Simulacion-Scheduler-main (3)\Simulacion-Scheduler-main\Simulador-Scheduler\obj\Debug\net6.0-windows\Scheduler-Simulator.genruntimeconfig.cache
+C:\Users\juann\Downloads\Simulacion-Scheduler-main (3)\Simulacion-Scheduler-main\Simulador-Scheduler\obj\Debug\net6.0-windows\ref\Scheduler-Simulator.dll
